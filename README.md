@@ -1,3 +1,3 @@
 # pythonpactice
 
-This is for pythin practice and pushing pythin scripts onto github
+This is for python practice and pushing python scripts onto github
