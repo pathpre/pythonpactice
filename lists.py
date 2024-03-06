@@ -37,6 +37,3 @@ print("list: ", my_list1)
 # element= input("Enter Element {}".format(i+1))
 #my_list2.append(element)
 #print("List", my_list2)
-
-
-
